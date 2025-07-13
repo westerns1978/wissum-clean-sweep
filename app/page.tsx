@@ -105,7 +105,7 @@ export default function Home() {
             <div className="relative">
               <div className="sissy-card">
                 <Image
-                  src="/20250302_131356-EFFECTS.jpg"
+                  src="/sissy_home.jpg"
                   alt="Sissy Girl - Our beloved Siberian Husky mascot with pink bow on Navarre Beach"
                   width={600}
                   height={400}
